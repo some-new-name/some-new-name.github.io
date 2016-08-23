@@ -1,0 +1,15 @@
+body {
+	padding: 0;
+}
+
+.wrapper {
+	width: 100%;
+	height: auto;
+}
+
+header {
+	width: 100%;
+	height: 100px;
+	background: cyan;
+	color: red;
+}
